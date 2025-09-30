@@ -1,0 +1,177 @@
+.luckiest-guy-regular {
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#splash-page{
+    background-color: rgba(30, 31, 32);
+    position:relative;
+    min-height:100vh;
+}
+
+#bag-title{
+    position:absolute;
+    top:2%;
+    left:22%;
+
+    font-family: "Luckiest Guy", cursive;
+    font-size: 80px;
+    color:rgba(222, 179, 54);
+}
+
+#landing-desc{
+    position:absolute;
+    top:23%;
+    left:24%;
+    right:17%;
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:17px;
+    text-align:center;
+    margin:0;
+    color: rgba(222, 179, 54); 
+}
+
+#pikachu{
+    position:fixed;
+    top:40%;
+    left:40%;
+
+    width:300px;
+    border-radius:7%;
+
+    box-shadow: 0 0 20px rgba(222, 179, 54), 0 0 40px gold, 0 0 60px orange;
+}
+
+#first-item{
+    background-color: rgb(83, 176, 196);
+}
+
+#second-item{
+    background-color:rgb(254, 248, 208);
+}
+
+#third-item{
+    background-color:rgb(238, 75, 87);
+}
+
+#forth-item{
+    background-color: rgb(121, 171, 172);;
+}
+
+#fifth-item{
+    background-color: rgb(97, 189, 130);
+}
+
+#ipad{
+    position:absolute;
+    top:20%;
+    right:1%;
+
+    width:600px;
+}
+
+#cam{
+    position:absolute;
+    top:20%;
+    right:1%;
+
+    width:650px;
+}
+
+#lunch-box{
+    position:absolute;
+    top:20%;
+    right:1%;
+
+    width:600px;
+}
+
+#water-bottle{
+    position:absolute;
+    top:20%;
+    right:1%;
+
+    width:650px;
+}
+
+#laptop{
+    position:absolute;
+    top:20%;
+    right:1%;
+
+    width:600px;
+}
+
+nav{
+    position:fixed;
+    top:10px;
+    left:0;
+    right:0;
+    display:flex;
+    justify-content: space-between;
+    padding:0 20px;
+}
+
+.directory-labels{
+    font-family: "Luckiest Guy", cursive;
+    color:rgba(30, 31, 32);
+    font-size:35px;
+    text-decoration: none;
+}
+
+#first-item-desc{
+    position:absolute;
+    top:45%;
+    left:10%;
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+    color:rgba(30, 31, 32);
+    max-width:490px;
+}
+
+#second-item-desc{
+    position:absolute;
+    top:45%;
+    left:10%;
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+    color:rgba(30, 31, 32);
+    max-width:490px;
+}
+
+#third-item-desc{
+    position:absolute;
+    top:45%;
+    left:10%;
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+    color:rgba(30, 31, 32);
+    max-width:490px;
+}
+
+#forth-item-desc{
+    position:absolute;
+    top:45%;
+    left:10%;
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+    color:rgba(30, 31, 32);
+    max-width:500px;
+}
+
+#fifth-item-desc{
+    position:absolute;
+    top:45%;
+    left:10%;
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+    color:rgba(30, 31, 32);
+    max-width:500px;
+}
